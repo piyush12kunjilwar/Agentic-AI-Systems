@@ -146,7 +146,7 @@ Wikipedia API · BeautifulSoup · ReAct Pattern
 RAG · Hallucination Detection · Synthetic Evaluation
 Python 3.12 · NumPy · Regex
 ```
-
+   
 ---
 
 ## Part of ML Systems Optimization Suite
