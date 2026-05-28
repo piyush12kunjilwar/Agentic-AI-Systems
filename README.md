@@ -153,7 +153,7 @@ Python 3.12 · NumPy · Regex
 - ✅ Module 1 — Inference Optimization (ONNX + Quantization)
 - ✅ Module 2 — CUDA Kernel Optimization (Triton + Flash Attention)
 - ✅ Module 3 — Distributed Training (FSDP + NCCL)
-- ✅ Module 4 — TensorRT Optimization (12.82x speedup)
+- ✅ Module 4 — TensorRT Optimization (12.82x speedup)   
 - ✅ Module 5 — Agentic AI Systems (this repo)
 
 ---  
