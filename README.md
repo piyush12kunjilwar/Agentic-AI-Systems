@@ -20,7 +20,7 @@
 ## What We Built
 
 ### Part 1 — ReAct Agent (Reason + Act)
-```
+```   
 Chatbot:  User asks → LLM answers → Done
 Agent:    User asks → LLM thinks → Selects tool
           → Executes tool → Observes result
