@@ -156,7 +156,7 @@ Python 3.12 · NumPy · Regex
 - ✅ Module 4 — TensorRT Optimization (12.82x speedup)
 - ✅ Module 5 — Agentic AI Systems (this repo)
 
----
+---  
 
 ## Author
 **Piyush Kunjilwar**
