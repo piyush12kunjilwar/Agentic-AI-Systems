@@ -88,7 +88,7 @@ Automated hallucination detection:
 missed exact keywords O(N)/tiling/SRAM
 
 **Average faithfulness: 1.00/1.0 — zero hallucinations**
-
+   
 ---
 
 ## Resume Claims Proven
