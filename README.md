@@ -13,7 +13,7 @@
 | RAG Retrieval | Avg similarity score | 0.680 top match |
 | Hallucination | Faithfulness score | **1.00/1.0** |          
 | Evaluation | Correct answers | **4/5 tests** |
-| Response time | Avg per query | 3.21s |
+| Response time | Avg per query | 3.21s |  
 
 ---
 
