@@ -144,7 +144,7 @@ answer  = llm(f"Answer using context:\n{context}\n\nQuestion: {query}")
 Google Colab AI · FAISS-CPU · SentenceTransformers
 Wikipedia API · BeautifulSoup · ReAct Pattern
 RAG · Hallucination Detection · Synthetic Evaluation   
-Python 3.12 · NumPy · Regex
+Python 3.12 · NumPy · Regex  
 ```   
    
 ---
