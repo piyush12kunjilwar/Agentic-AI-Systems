@@ -107,7 +107,7 @@ missed exact keywords O(N)/tiling/SRAM
 ## Key Concepts
 
 ### ReAct Pattern
-```python
+```python   
 while not done:
     thought = llm.think(context)
     action, input = parse(thought)
