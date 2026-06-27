@@ -97,7 +97,7 @@ missed exact keywords O(N)/tiling/SRAM
 |-------|---------------|
 | "Engineered Deep Research agentic workflow" | 4-step pipeline built and tested |
 | "Orchestrating complex tool-use patterns" | 5 tools, automatic selection |
-| "Automated multistep information retrieval" | Wikipedia + FAISS + LLM synthesis |
+| "Automated multistep information retrieval" | Wikipedia + FAISS + LLM synthesis |  
 | "Developed rigorous evaluation pipelines" | Faithfulness + consistency scoring |
 | "Proactively identifying hallucination issues" | 1.00 faithfulness, OOD detection |
 | "Using synthetic data to stress-test" | 5 test cases including adversarial |
