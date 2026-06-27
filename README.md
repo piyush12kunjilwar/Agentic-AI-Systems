@@ -4,7 +4,7 @@
 > workflow, RAG with FAISS, and hallucination evaluation framework.
 > Direct replica of CareerGPT production system.
 
-## Results     
+## Results       
 
 | Component | Metric | Result |
 |-----------|--------|--------|
