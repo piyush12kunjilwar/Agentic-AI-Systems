@@ -125,7 +125,7 @@ scores, indices = faiss_index.search(query_embedding, k=3)
 
 # Augmented Generation
 context = get_docs(indices)
-answer  = llm(f"Answer using context:\n{context}\n\nQuestion: {query}")
+answer  = llm(f"Answer using context:\n{context}\n\nQuestion: {query}")  
 ```
 
 ### Faithfulness Evaluation  
