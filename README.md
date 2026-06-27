@@ -6,7 +6,7 @@
 
 ## Results       
 
-| Component | Metric | Result |
+| Component | Metric | Result |  
 |-----------|--------|--------|   
 | ReAct Agent | Tool selection accuracy | ✅ Automatic |       
 | Deep Research | Steps per query | 4 (decompose→research→validate→synthesize) |        
