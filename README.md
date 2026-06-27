@@ -128,7 +128,7 @@ context = get_docs(indices)
 answer  = llm(f"Answer using context:\n{context}\n\nQuestion: {query}")
 ```
 
-### Faithfulness Evaluation
+### Faithfulness Evaluation  
 ```python
 # For each answer:
 # 1. Get retrieved context
