@@ -16,7 +16,7 @@
 | Response time | Avg per query | 3.21s |  
 
 ---
-
+  
 ## What We Built
 
 ### Part 1 — ReAct Agent (Reason + Act)
