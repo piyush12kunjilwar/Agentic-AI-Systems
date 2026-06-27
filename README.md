@@ -7,7 +7,7 @@
 ## Results       
 
 | Component | Metric | Result |
-|-----------|--------|--------|
+|-----------|--------|--------|   
 | ReAct Agent | Tool selection accuracy | ✅ Automatic |       
 | Deep Research | Steps per query | 4 (decompose→research→validate→synthesize) |        
 | RAG Retrieval | Avg similarity score | 0.680 top match |
