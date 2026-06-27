@@ -81,7 +81,7 @@ Automated hallucination detection:
 | Flash Attention memory | 1.00 ✅ | ❌* |
 | NCCL parameters | 1.00 ✅ | ✅ |
 | TensorRT speedup | 1.00 ✅ | ✅ |
-| Gradient accumulation | 1.00 ✅ | ✅ |
+| Gradient accumulation | 1.00 ✅ | ✅ |  
 | Capital of Mars (OOD) | 1.00 ✅ | ✅ |
 
 *Flash Attention: answer was faithful but 
