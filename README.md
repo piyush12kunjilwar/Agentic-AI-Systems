@@ -73,7 +73,7 @@ Retrieval accuracy:
 - NCCL query → nccl_tuning_guide (0.606)
 - TensorRT query → tensorrt_deployment_guide (0.716)
 
-### Part 5 — Evaluation Framework
+### Part 5 — Evaluation Framework  
 Automated hallucination detection:
 
 | Test | Faithfulness | Correct |
